@@ -74,7 +74,7 @@ client.on("messageCreate", msg => {
 
 
 //const mySecret = process.env['TOKEN']
-const mySecret = "OTI5MzI1Mzk0MzQyMDgwNTYz.YdlruA.R1zgqSMu5pM4S5CdKwRppFAvVJI";
+const mySecret = "";
 client.login(mySecret);
 
 // http://127.0.0.1:5000/name/3/0/13/1/0/5
