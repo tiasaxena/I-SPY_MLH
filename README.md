@@ -32,7 +32,7 @@ libraries/modules like stopwords and Tf-Idf vectorization for data cleaning .
 
 ## Tools Used
 - Canva
-- - Figma
+- Figma
 
 
 
