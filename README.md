@@ -1,4 +1,8 @@
 # 'I-Spy' is an open innovation project
+<hr>
+
+<img src = "https://github.com/topguns837/I-Spy/blob/main/assests/i-spy-screens.png">
+</hr>
 
 ## What is 'I-Spy' ?
 I-Spy is a bot which keeps a check on foul language, hate-speech and NSFW content on platforms like discord and twitter.
@@ -53,3 +57,7 @@ libraries/modules like stopwords and Tf-Idf vectorization for data cleaning .
 - DM discord server owners directly regarding frequent offenders
 
 - Devise a system to monitor and report explicit nicknames used by community members
+
+- Deploy our API and model so that other developers can use and improve our service
+
+- Get an official API from Twitter and use it instead of Puppeteer
