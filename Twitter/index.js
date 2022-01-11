@@ -54,8 +54,6 @@ let page = null;
 
     console.log("-----");
     authorsSet.clear();
-    authorsSet.add('wasp_404');
-    authorsSet.add('ArjunKHaridas1');
     console.log(authorsSet);
 
     // VISIT ALL AUTHORS AND CLICK FOLLOW BUTTON
