@@ -60,3 +60,5 @@ libraries/modules like stopwords and Tf-Idf vectorization for data cleaning .
 - Deploy our API and model so that other developers can use and improve our service
 
 - Get an official API from Twitter and use it instead of Puppeteer
+
+## Demo Video  : https://www.youtube.com/watch?v=AVmq5L7erw8&list=LL&index=3
