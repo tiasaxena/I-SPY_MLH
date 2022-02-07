@@ -1,6 +1,6 @@
 # 'I-Spy' is an open innovation project
 <hr>
-<img src = "https://github.com/topguns837/I-Spy/blob/main/assests/i-spy-screens.png">
+<img src = "https://github.com/topguns837/I-Spy/blob/main/assests/i-spy-banner.png">
 <hr>
 
 ## What is 'I-Spy' ?
